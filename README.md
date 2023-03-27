@@ -2,4 +2,5 @@
 Záverečný projekt 
 
 ( ఠൠఠ )
-Slavomír Zubal
+Slavomir Zubal
+Dominik Schmid
