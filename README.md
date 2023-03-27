@@ -1,5 +1,5 @@
 # Projektiss
-Záverečný projek 
+Záverečný projekt 
 
 ( ఠൠఠ )
 Slavomír Zubal
