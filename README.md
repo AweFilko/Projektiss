@@ -1,6 +1,6 @@
 # Projektiss
-Záverečný projek 
+Záverečný projekt 
 
 ( ఠൠఠ )
-
-Dominik Schmidt
+Slavomir Zubal
+Dominik Schmid
