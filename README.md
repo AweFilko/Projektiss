@@ -10,3 +10,5 @@ Dominik Schmidt
 Adam Hoffmann
 
 Filip Brutovský
+
+pokus pre simona
