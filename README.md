@@ -2,4 +2,4 @@
 Záverečný projek 
 
 ( ఠൠఠ )
-
+Adam Hoffmann
