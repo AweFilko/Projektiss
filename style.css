@@ -3,6 +3,7 @@
 	padding: 0;
 }
 body {
+
 	background: rgb(0,0,0);
 	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(20,191,235,1) 19%, rgba(48,119,136,1) 67%, rgba(55,107,117,1) 100%);
 }
@@ -71,4 +72,18 @@ button:hover {
 	background-color: #B6E1E7;
 	color: #00ABE4;
 	cursor: pointer;
+
+	display: flex;
+}
+body > section {
+	flex-basis: 50%;
+}
+textarea {
+	width: 70%;
+	height: 90vh;
+}
+img {
+	width: 100%;
+	height: auto;
+
 }
