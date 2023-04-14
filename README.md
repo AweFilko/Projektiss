@@ -2,5 +2,11 @@
 Záverečný projekt 
 
 ( ఠൠఠ )
-Slavomir Zubal
-Dominik Schmid
+
+Slavomír Zubal
+
+Dominik Schmidt
+
+Adam Hoffmann
+
+Filip Brutovský
