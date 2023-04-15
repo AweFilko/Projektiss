@@ -19,3 +19,18 @@ function handleSubmit(e) {
 		})
 }
 document.querySelector("form").addEventListener("submit", handleSubmit); // Nastavíme formulár, aby pri submit udalosti spustil našu handleSubmit funkciu
+
+function random() {
+	document.getElementById("textarea").innerHTML = "VES v1.0 700 700\nCLEAR #d7d7f7\nFILL_CIRCLE 0 0 100 #fafa61\nLINE 0 0 25 175 5 #fafa61\nLINE 0 0 75 150 5 #fafa61\nLINE 0 0 125 125 5 #fafa61\nLINE 0 0 150 95 5 #fafa61\nLINE 0 0 175 50 5 #fafa61\nFILL_RECT 200 300 300 299 #bd743c\nRECT 200 300 300 299 3 #000000\nFILL_TRIANGLE 175 300 525 300 350 100 #ff0000\nTRIANGLE 175 300 525 300 350 100 3 #000000\nFILL_RECT 350 500 75 99 #542f13\nRECT 350 500 75 99 3 #000000\nFILL_CIRCLE 400 550 5 #000000\nFILL_RECT 250 350 75 50 #0000ff\nRECT 250 350 75 50 3 #542f13\nLINE 250 375 325 375 5 #542f13\nLINE 285 350 285 400 5 #542f13"
+}
+function fun(){
+	document.getElementById("form").reset() 
+	document.getElementById("output").style.opacity = "0"
+	mfdel()
+  } 
+function mfsee(){
+	document.getElementById("output").style.opacity = "1"
+}
+function mfdel(){
+	document.getElementById("textarea").innerHTML =""
+}
