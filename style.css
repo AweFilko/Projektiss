@@ -75,18 +75,7 @@ button:hover {
 
 	display: flex;
 }
-body > section {
-	flex-basis: 50%;
-}
-textarea {
-	width: 70%;
-	height: 90vh;
-}
-img {
-	width: 100%;
-	height: auto;
 
-}
 input {
 	margin: 0 1rem;
 	width: 6rem;
