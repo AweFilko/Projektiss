@@ -10,6 +10,7 @@
 	</header>
 	<main>
 		<section class="section_one">
+
 			<form id="form" method="POST" action="/render">
 				<textarea id="textarea" name="ves" placeholder="Tu napíš príkazy:"></textarea>
 				<br>
@@ -17,12 +18,24 @@
 				<input type = "button" value = "Vymazať" onClick = "fun()"/>
 				<button onclick= "window.print()">Tlačiť</button>
 				<button onclick="random()">Random</button>
+
+			<form method="POST" action="/render">
+				<textarea id="textarea" name="ves" placeholder="Tu napíš príkazy:"></textarea>
+				<br>
+				<button>Zobraziť</button>
+				<button onclick="reset()">Vymazať</button>
+				<button onclick= "window.print()">Tlačiť</button>
+
 			</form>
 		</section>
 		<section class="section_two">
 			<img id="output" />
 		</section>
 	</main>
+
+
+
+
 <script type="text/javascript" src="script.js" ></script>
 </body>
 </html>

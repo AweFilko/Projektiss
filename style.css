@@ -72,8 +72,6 @@ button:hover {
 	background-color: #B6E1E7;
 	color: #00ABE4;
 	cursor: pointer;
-
-	display: flex;
 }
 
 input {
