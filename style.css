@@ -72,18 +72,4 @@ button:hover {
 	background-color: #B6E1E7;
 	color: #00ABE4;
 	cursor: pointer;
-
-	display: flex;
-}
-body > section {
-	flex-basis: 50%;
-}
-textarea {
-	width: 70%;
-	height: 90vh;
-}
-img {
-	width: 100%;
-	height: auto;
-
 }
