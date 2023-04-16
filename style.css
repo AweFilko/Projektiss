@@ -27,11 +27,11 @@ main {
 }
 
 textarea {
-	width: 80%;
-	height: 70vh;
+	width: 85%;
+	height: 73vh;
 	background-color: #B6E1E7;
 	font-size: 1.25rem;
-	margin-left: 1rem;
+	margin-left: 2rem;
 	margin-bottom: 1rem;
 	padding: 0.5rem;
 	border: 1px solid grey;
@@ -68,6 +68,10 @@ button {
 	border-radius: 0.25rem
 }
 
+button:first-of-type {
+	margin-left: 2rem
+}
+
 button:hover {
 	background-color: #B6E1E7;
 	color: #00ABE4;
@@ -86,4 +90,8 @@ input:hover {
 	background-color: #B6E1E7;
 	color: #00ABE4;
 	cursor: pointer;
+}
+
+#output {
+	background: #b6e1e787;
 }
