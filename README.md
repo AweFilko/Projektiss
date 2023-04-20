@@ -1,4 +1,5 @@
 # Projektiss
+```
 Záverečný projekt 
 
 ( ఠൠఠ )
@@ -10,3 +11,4 @@ Dominik Schmidt
 Adam Hoffmann
 
 Filip Brutovský
+```
